@@ -2,7 +2,9 @@
 
 Instagram APK Version 360.0.0.52.192, reverse patched. Check releases. Currently only supporting ABI: **arm64-v8a**
 
-__Will post more ABI versions and updated patched APKs; IF THIS REPOSITORY GETS 100 STARS__
+Allows you to intercept Instagram Android requests and bypass SSL pinning, without Frida or any other runtime tool. Intercepts all low-level and binary requests too.
+
+### Will post more ABI versions and updated patched APKs; IF THIS REPOSITORY GETS 100 STARS
 
 If you have any inquiries, please contact me below. Open to work, help, support, teach, etc.
 
